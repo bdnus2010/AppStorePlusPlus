@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>AppStore++</string>
+	<key>CFBundleExecutable</key>
+	<string>AppStorePlusPlus</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.appstoreplusplus.mac</string>
+	<key>CFBundleName</key>
+	<string>AppStore++</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3.0</string>
+	<key>CFBundleVersion</key>
+	<string>5</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.developer-tools</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>AppStore++ uses a macOS administrator prompt to collect the local FairPlay enrollment needed for decryption setup.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

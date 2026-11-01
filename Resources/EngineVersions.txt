@@ -1,0 +1,7 @@
+AppStore++ 1.3.0
+
+ipatool source: d9c0247daea564d3ec7d04a9b015d0a29af66b04
+Local integration: private stdin credentials; dedicated state directory and Keychain service.
+
+UnfairPlay source: 102e6ba550d69ce604b25ec4b91216d11af0b3c0
+Includes upstream exact-build extracted recovery fallback for 26A428/26A434.
