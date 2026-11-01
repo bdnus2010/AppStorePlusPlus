@@ -74,8 +74,8 @@ Validation details are in `VALIDATION.md`. The generated icon is in `Resources/T
 
 ## Release 1.3.0
 
-- Adds an optional Buy Me a Coffee button in the top-right corner.
-- Removes the unfinished Trial / Unlock interface and payment checks.
+
+
 - Keeps saved Apple Account sign-in and the existing download and decryption workflows.
 - Includes the official coffee logo with attribution in the bundled notices.
 
