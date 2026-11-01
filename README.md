@@ -6,6 +6,8 @@ A free native Apple Silicon Mac app for downloading owned iPhone, iPad, and Appl
 
 **Free to use, with optional donations.** No trial, unlock purchase, or payment verification. Support development at [Buy Me a Coffee](https://buymeacoffee.com/100xtoday). The yellow coffee button at the top right gently pulses while the app is active and respects Reduce Motion.
 
+![AppStore++ interface showing platform selection and the optional donation button](docs/appstoreplusplus-screenshot.png)
+
 ## Open the app
 
 For a normal installation, open `dist/AppStore++-1.3.0-AppleSilicon.pkg` and follow the macOS Installer steps. It installs `/Applications/AppStore++.app` for all users and requires administrator approval. Quit any running copy before installing. The installer contains the application only; it does not change your models, account session, or downloaded IPAs. This installer is unsigned and not notarized.
