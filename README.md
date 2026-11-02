@@ -1,3 +1,4 @@
+<img width="1325" height="741" alt="Screenshot 2026-11-02 at 2 20 15 PM" src="https://github.com/user-attachments/assets/8f8fbc86-c9e7-4233-b243-fcea03f1eb7c" />
 # AppStore++
 
 [**Download AppStore++ for Mac**](https://github.com/bdnus2010/AppStorePlusPlus/releases/latest) · [Support development](https://buymeacoffee.com/100xtoday)
